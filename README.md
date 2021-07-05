@@ -1,5 +1,5 @@
-# PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+# Official File Forwarder / File To Link
+This is Telegram Parmanent Files Store Bot by [@Temp_Demo](https://github.com/freecontent).
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
